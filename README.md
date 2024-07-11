@@ -2,8 +2,8 @@
 
 👋 Hi, I’m Sue Kwon 
 
-Major: Software Engineering (Algorithm-Intense Systems)
+Major: Software Engineering / Electrical & Computer Engineering
 
-Minor(s): Computer Science, Electrical & Computer Engineering, Math, and Korean
+Minor(s): Computer Science, Math, and Korean
 
 E-Portfolio:
